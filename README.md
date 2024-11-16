@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn plotly dash
 To get started with the project, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/samriddhinechali1/Color-Extraction-Tool.git
+git clone https://github.com/samriddhinechali1/scf-business-cluster-analysis.git
 ```
 2. Explore the Jupyter Notebooks
 **Data Analysis and Model Building:**
